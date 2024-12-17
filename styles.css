@@ -3,17 +3,28 @@ body {
 }
 
 h1 {
-    font: bold;
-    font:800;
+    font-family: Georgia;
+    font-size: 250%;
     color: aquamarine;
 }
 
 h2 {
+    font-family: 'Courier New', Courier, monospace;
     color: midnightblue;
 }
 
 p {
-    
     color: black;
-    font-size: x-large;
+    font-size: 150%;
+}
+
+.test{
+    color: red;
+    font-size: 150%; 
+    flex-direction: ;
+}
+
+#test{
+    color: rgba(135, 64, 64, 0.532);
+    font-size: 150%; 
 }
