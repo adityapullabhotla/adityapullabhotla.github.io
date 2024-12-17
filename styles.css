@@ -19,12 +19,12 @@ p {
     font-size: 150%;
 }
 
+/* class style*/
 .test{
     color: red;
     font-size: 150%; 
-    flex-direction: ;
 }
-
+/* ID style */
 #test{
     color: rgba(135, 64, 64, 0.532);
     font-size: 150%; 
