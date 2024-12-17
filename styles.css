@@ -3,9 +3,17 @@ body {
 }
 
 h1 {
+    font: bold;
+    font:800;
     color: aquamarine;
 }
 
+h2 {
+    color: midnightblue;
+}
+
 p {
+    
     color: black;
+    font-size: x-large;
 }
