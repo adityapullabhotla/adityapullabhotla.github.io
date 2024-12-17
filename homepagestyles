@@ -1,0 +1,30 @@
+body {
+    background-color: darksalmon;
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: 250%;
+    color: aquamarine;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: midnightblue;
+}
+
+p {
+    color: black;
+    font-size: 150%;
+}
+
+/* class style*/
+.test{
+    color: red;
+    font-size: 150%; 
+}
+/* ID style */
+#test{
+    color: rgba(135, 64, 64, 0.532);
+    font-size: 150%; 
+}
