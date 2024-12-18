@@ -3,8 +3,10 @@ body {
 }
 
 h1 {
+    border-bottom: 0.2rem dashed greenyellow;
+    padding: 0.2rem;
     font-family: Georgia;
-    font-size: 250%;
+    font-size: 3rem;
     color: aquamarine;
 }
 
