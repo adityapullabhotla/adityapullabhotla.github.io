@@ -1,32 +1,57 @@
 body {
-    background-color: darksalmon;
+    background-color: black;
 }
 
 h1 {
     border-bottom: 0.2rem dashed greenyellow;
     padding: 0.2rem;
-    font-family: Georgia;
-    font-size: 3rem;
-    color: aquamarine;
+    font-family:initial;
+    font-size: 1.5rem;
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+    font-style: bold;
 }
 
 h2 {
     font-family: 'Courier New', Courier, monospace;
-    color: midnightblue;
+    color: whitesmoke;
 }
 
 p {
-    color: black;
+    color: whitesmoke;
     font-size: 150%;
 }
 
 /* class style*/
-.test{
+.test {
     color: red;
-    font-size: 150%; 
+    font-size: 150%;
 }
+
 /* ID style */
-#test{
-    color: rgba(135, 64, 64, 0.532);
-    font-size: 150%; 
+#test {
+    color: whitesmoke;
+    font-size: 150%;
+}
+
+.linkOne { 
+    a:link {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: skyblue;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: ;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
 }
